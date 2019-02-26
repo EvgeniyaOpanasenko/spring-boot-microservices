@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Projects.iml" filepath="$PROJECT_DIR$/.idea/Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-microservice-currency-conversion/spring-boot-microservice-currency-conversion.iml" filepath="$PROJECT_DIR$/spring-boot-microservice-currency-conversion/spring-boot-microservice-currency-conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservice-eureka-naming-server/spring-boot-microservice-eureka-naming-server.iml" filepath="$PROJECT_DIR$/spring-boot-microservice-eureka-naming-server/spring-boot-microservice-eureka-naming-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-microservice-forex-service/spring-boot-microservice-forex-service.iml" filepath="$PROJECT_DIR$/spring-boot-microservice-forex-service/spring-boot-microservice-forex-service.iml" />
     </modules>
   </component>

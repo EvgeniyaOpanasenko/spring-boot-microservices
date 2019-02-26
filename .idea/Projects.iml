@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/spring-boot-microservice-currency-conversion/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/spring-boot-microservice-forex-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-microservice-eureka-naming-server/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
